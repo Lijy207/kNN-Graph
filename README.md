@@ -1,4 +1,4 @@
-# $k$NN-Graph: An Adaptive Graph Model for $k$-Nearest Neighbors
+# kNN-Graph: An Adaptive Graph Model for $k$-Nearest Neighbors
 
 This repository contains the official MATLAB implementation of the $k$NN-Graph framework.
 
